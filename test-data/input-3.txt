@@ -1,0 +1,3 @@
+GT4500,1,1,1,0
+TORPEDO,SINGLE #Első lövés biztos fail.
+TORPEDO,SINGLE #Második lövés hogy biztos nem fogyott a bayből.
