@@ -1,0 +1,8 @@
+GT4500,2,0,2,0
+TORPEDO,SINGLE # Torpedos in bays before command: 2-2
+TORPEDO,SINGLE # Torpedos in bays before command: 1-2
+TORPEDO,SINGLE # Torpedos in bays before command: 1-1 
+TORPEDO,SINGLE # Torpedos in bays before command: 0-1 
+TORPEDO,SINGLE # Torpedos in bays before command: 0-0 and should give FAILURE.
+
+
